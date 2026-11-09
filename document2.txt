@@ -1,5 +1,6 @@
 # Bye
-// C program for Merge Sort
+// C program for Merge Sort 송현준 수정함
+
 #include <stdio.h>
 #include <stdlib.h>
 
